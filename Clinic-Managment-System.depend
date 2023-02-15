@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676468152 source:c:\users\torres\desktop\clinic-managment-system\main.c
+	<stdio.h>
+	"STD_TYPES.h"
+
+1674959331 c:\users\torres\desktop\clinic-managment-system\std_types.h
+
